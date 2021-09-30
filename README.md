@@ -17,7 +17,7 @@
 - :man_technologist: Go programming language
 
 ## My core skills are
-*Click ![here](./assets/Resume_EN_v29Sep2021_Cloud_DevOps_Architect.pdf) to view my complete resume*
+*Click <a href="./assets/Resume_EN_v29Sep2021_Cloud_DevOps_Architect.pdf" target="_blank">here</a> to view my complete resume*
 | Icon                    | Skill         | Experience           | Level      | Main tools                                    |
 | ----------------------- | ------------- | -------------------- | ---------- | --------------------------------------------- |
 | :cloud:                 | AWS Cloud     | ████████████████████ | Mid-level  | Well-Architected Framework                    |
