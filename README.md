@@ -2,7 +2,7 @@
 
 ## Hello, nice to meet you
 - :raising_hand_man: I'm Caio Marte, 25, Brazilian.
-- :pushpin: I'm currently living in São Paulo/SP-Brazil, but available to relocate.
+- :pushpin: Currently living in São Paulo/SP-Brazil, but available to relocate.
 - :dart: My goal is to leverage Cloud & DevOps practices to drive customer value by default.
 
 ## Currently, I have been
