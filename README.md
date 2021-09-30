@@ -3,7 +3,7 @@
 ## Hello, nice to meet you
 - :raising_hand_man: I'm Caio Marte, 25, Brazilian & (soon-to-be) Portuguese.
 - :pushpin: I'm currently living in São Paulo/SP-Brazil, but available to relocate.
-- :dart: My goal is enabling Cloud & DevOps to deliver customer value by default.
+- :dart: My goal is to leverage Cloud & DevOps practices to drive customer value by default.
 
 ## Currently, I have been
 **Working on**
