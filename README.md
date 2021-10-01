@@ -9,23 +9,30 @@
 **Working on**
 - :cloud: Cloud migration from Aptible to AWS
 - :gear: Infra as code with Terraform
+- :package: Amazon EKS architecture & deployment
+- :package: Application management with Helm
 - :building_construction: CI/CD pipelines on CircleCI
-- :package: Kubernetes architecture on Amazon EKS
 
 **Learning about**
 - :stethoscope: HIPAA compliance on AWS
+- :gear: Managing AWS Organizaton & Accounts with Terraform
+- :package: Kubernetes architecture patterns on Amazon EKS
+- :package: Building Helm charts
+
+**Studying aside**
 - :man_technologist: ![Go](https://github.com/caiomarte/learning/tree/main/go/sololearn) programming language
 
 ## My core skills are
 *Click <a href="./assets/Resume_EN_v29Sep2021_Cloud_DevOps_Architect.pdf" target="_blank">here</a> to view my complete resume*
-| Skill                         | Experience           | Level      | Main tools                                    |
-| ----------------------------- | -------------------- | ---------- | --------------------------------------------- |
-| :cloud: AWS Cloud             | ████████████████████ | Mid-level  | Well-Architected Framework                    |
-| :gear: Infra as Code          | █████████████████░░░ | Mid-Level  | Terraform, CloudFormation, AWS CDK for Python |
-| :building_construction: CI/CD | █████████████░░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CirlceCI       |
-| :package: Containers          | ██████████░░░░░░░░░░ | Junior     | ECS, EKS, Kubernetes                          |
-| :fog: Serverless              | ███████░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB    |
-| :bar_chart: Agile & Lean      | ████████████████████ | Mid-Level  | Kanban, Scrum, Working Backwards              |
+| Skill                                      | Experience           | Level      | Main tools                                    |
+| ------------------------------------------ | -------------------- | ---------- | --------------------------------------------- |
+| :cloud: AWS Cloud                          | ████████████████████ | Mid-level  | Well-Architected Framework                    |
+| :gear: Infrastructure as Code              | ████████████████░░░░ | Mid-Level  | Terraform, CloudFormation, AWS CDK for Python |
+| :building_construction: CI/CD              | █████████████░░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI       |
+| :package: Containers & Orchestration       | ███████░░░░░░░░░░░░░ | Junior     | ECS, EKS, Kubernetes                          |
+| :fog: Serverless                           | ███░░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB    |
+| :shield: Management, Monitoring & Security | ███████████░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, IAM, Security Group, NACL    |
+| :bar_chart: Agile & Lean                   | ████████████████████ | Mid-Level  | Kanban, Scrum, Working Backwards              |
 
 ### Certifications
 <a href="https://www.credly.com/badges/89a2dcd9-9996-4f88-af1b-b85a7794b2dd/public_url" target="_blank"><img src="./assets/certs/aws-certified-solutions-architect-associate.png" width="15%"/></a>
