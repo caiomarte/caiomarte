@@ -3,15 +3,15 @@
 ## Hello, nice to meet you
 - :raising_hand_man: I'm Caio Marte, 25, Brazilian.
 - :pushpin: Currently living in São Paulo/SP-Brazil, but available to relocate.
-- :dart: My goal is to leverage Cloud & DevOps practices to drive customer value by default.
+- :dart: My goal is to help teams leverage Cloud & DevOps practices to drive customer value by default.
 
 ## Currently, I have been
 **Working on**
 - :cloud: Cloud migration from Aptible to AWS
 - :gear: Infra as code with Terraform
+- :building_construction: CI/CD pipelines on CircleCI
 - :package: Amazon EKS architecture & deployment
 - :package: Application management with Helm
-- :building_construction: CI/CD pipelines on CircleCI
 
 **Learning about**
 - :stethoscope: HIPAA compliance on AWS
@@ -20,7 +20,7 @@
 - :package: Building Helm charts
 
 **Studying aside**
-- :man_technologist: ![Go](https://github.com/caiomarte/learning/tree/main/go/sololearn) programming language
+- :man_technologist: <a href="https://github.com/caiomarte/learning/tree/main/go/sololearn" target="_blank">Go</a> programming language
 
 ## My core skills are
 *Click <a href="./assets/Resume_EN_v29Sep2021_Cloud_DevOps_Architect.pdf" target="_blank">here</a> to view my complete resume*
