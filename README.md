@@ -1,9 +1,10 @@
 ![Banner](./assets/banner.gif)
 
 ## Hello, nice to meet you
-- :raising_hand_man: I'm Caio Marte, 25, Brazilian.
-- :pushpin: Currently living in São Paulo/SP-Brazil, but available to relocate.
+- :raising_hand_man: I'm Caio Marte, 25, Brazilian & to-be Portuguese.
+- 💼 DevOps & Cloud Architect, specialized in AWS, Terraform, CI/CD, and writing awesome documentation.
 - :dart: My goal is to help teams leverage Cloud & DevOps practices to drive customer value by default.
+- :pushpin: Currently living in São Paulo/SP-Brazil, but available to relocate (remote work only).
 
 ## Currently, I have been
 **Working on**
