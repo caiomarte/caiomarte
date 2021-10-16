@@ -18,7 +18,7 @@
 **Learning about**
 - :stethoscope: HIPAA compliance on AWS
 - :gear: Managing AWS Organizaton & Accounts with Terraform
-- :building_construction: Reutilizing pipeline configuration on CircleCI
+- :building_construction: Reusing pipeline configuration on CircleCI
 - :package: Kubernetes architecture patterns on Amazon EKS
 - :package: Building Helm charts
 
