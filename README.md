@@ -58,11 +58,12 @@ Over 3y working with AWS Cloud and DevOps:
 | ------------------------------------------ | -------------------- | ---------- | --------------------------------------------- |
 | :cloud: AWS Cloud                          | ████████████████████ | Mid-level  | Well-Architected Framework                    |
 | :gear: Infrastructure as Code              | ████████████████░░░░ | Mid-Level  | Terraform, CloudFormation, AWS CDK for Python |
-| :building_construction: CI/CD              | █████████████░░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI       |
-| :package: Containers & Orchestration       | ███████░░░░░░░░░░░░░ | Junior     | ECS, EKS, Kubernetes                          |
+| :building_construction: CI/CD Pipeline     | █████████████░░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI       |
+| :package: Container & Orchestration        | ███████░░░░░░░░░░░░░ | Junior     | ECS, EKS, Kubernetes                          |
 | :fog: Serverless                           | ███░░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB    |
-| :shield: Management, Monitoring & Security | ███████████░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, IAM, Security Group, NACL    |
+| :shield: Governance, Monitoring & Security | ███████████░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, IAM, Security Group, NACL    |
 | :bar_chart: Agile & Lean                   | ████████████████████ | Mid-Level  | Kanban, Scrum, Working Backwards              |
+| :memo: Technical Writing                   | ████████████████████ | Mid/Senior | Customer/User & Project Documentation         |
 
 ### Certifications
 <a href="https://www.credly.com/badges/89a2dcd9-9996-4f88-af1b-b85a7794b2dd/public_url" target="_blank"><img src="./assets/certs/aws-certified-solutions-architect-associate.png" width="15%"/></a>
