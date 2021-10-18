@@ -2,14 +2,14 @@
 
 ## Hello, nice to meet you
 - :raising_hand_man: I'm Caio Marte, 25, Brazilian & to-be Portuguese.
-- 🎓 90% Bachelor of Computer Engineering (GPA: 3.7, graduation date: Dec 2021).
-- 💼 DevOps & Cloud Architect, specialized in AWS, Terraform, CI/CD, and writing awesome documentation.
+- :mortar_board: 90% Bachelor of Computer Engineering (GPA: 3.7, graduation date: Dec 2021).
+- :briefcase: DevOps & Cloud Architect, specialized in AWS, Terraform, CI/CD, and writing awesome documentation.
 - :dart: My goal is to help teams leverage Cloud & DevOps practices to drive customer value by default.
-- :pushpin: Currently living in São Paulo/SP-Brazil, but available to relocate (remote work only).
+- :pushpin: Living in São Paulo/SP-Brazil, but available to relocate (remote work only).
 
 ## Currently, I have been
 **Working on**
-- :cloud: Cloud migration from Aptible to AWS
+- :cloud: Application migration from Aptible to AWS
 - :gear: Infra as code with Terraform
 - :building_construction: CI/CD pipelines on CircleCI
 - :package: Amazon EKS architecture & deployment
@@ -25,8 +25,35 @@
 **Studying aside**
 - :man_technologist: <a href="https://github.com/caiomarte/learning/tree/main/go/sololearn" target="_blank">Go</a> programming language
 
+## My core experience is
+Over 3y working with AWS Cloud and DevOps:
+- (2021 ~ Now) Currently an AWS & DevOps Engineer at [Caylent](https://caylent.com/)
+- (2020 ~ 2021) 1y4 mos a paid Cloud Infrastructure Architect Intern at [AWS](https://aws.amazon.com/professional-services/)
+- (2018 ~ 2020) 1y10 mos a paid Cloud Technical Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid)
+
+### Projects
+**Relevant role in 6 consulting projects**
+- **1** leading the technical team
+- **2** as the only solutions architect
+- **1** as the primary solutions architect
+- **1** as secondary solutions architect
+- **6** working on deliverables on my own
+- **1** creating customer documentation
+- **1** creating project documentation
+
+**Main project stack**
+- :cloud: **6** projects related to the AWS Cloud
+  - **1** related to application migration
+- :gear: **4** projects related to Infrastructure as Code
+  - Terraform, CloudFormation 
+- :building_construction: **3** projects related to CI/CD
+  - Azure Pipelines, AWS CI/CD stack, and CircleCI
+- :package: **2** projects related to containers & orchestration 
+  - Amazon ECS and Amazon EKS
+- :shield: **1** project related to monitoring
+  - Amazon CloudWatch and Amazon EC2
+
 ## My core skills are
-*Click <a href="./assets/Resume_EN_v29Sep2021_Cloud_DevOps_Architect.pdf" target="_blank">here</a> to view my complete resume*
 | Skill                                      | Experience           | Level      | Main tools                                    |
 | ------------------------------------------ | -------------------- | ---------- | --------------------------------------------- |
 | :cloud: AWS Cloud                          | ████████████████████ | Mid-level  | Well-Architected Framework                    |
@@ -49,3 +76,5 @@
 <a href="mailto:caiomartesilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 <a href="https://www.linkedin.com/in/caiomarte/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://caiomarte.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+
+*Click <a href="./assets/Resume_EN_v29Sep2021_Cloud_DevOps_Architect.pdf" target="_blank">here</a> to view my complete resume*
