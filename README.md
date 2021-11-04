@@ -74,8 +74,8 @@ Over 3y working with AWS Cloud and DevOps:
 <a href="https://www.credly.com/badges/95ff1e53-709e-4d26-925c-75f96de33465/public_url" target="_blank"><img src="./assets/certs/scrum-foundation-professional-certificate-sfpc.1.png" width="15%"/></a>
 
 ## You can also find me on
-<a href="mailto:caiomartesilva@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/caiomarte/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://caiomarte.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
+<a href="https://pushandroll.com" target="_blank"><img src="./assets/icons/in.png" target="_blank" style="width: 7%;"></a>&nbsp;&nbsp;
+<a href="https://blog.pushandroll.com" target="_blank"><img src="./assets/icons/md.png" target="_blank" style="width: 7%;"></a>&nbsp;&nbsp;
+<a href="mailto:caiomarte@pushandroll.com" target="_blank"><img src="./assets/icons/gm.png" target="_blank" style="width: 7%;"></a>
 
 *Click <a href="./assets/Resume_EN_v29Sep2021_Cloud_DevOps_Architect.pdf" target="_blank">here</a> to view my complete resume*
