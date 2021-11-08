@@ -16,7 +16,7 @@
 - :package: Application management with Helm
 
 **Building aside**
-- :building_construction: CI/CD pipeline to deploy Terraform-mangaged AWS resources
+
 
 **Learning about**
 - :stethoscope: HIPAA compliance on AWS
@@ -25,8 +25,9 @@
 - :package: Kubernetes architecture patterns on Amazon EKS
 - :package: Automating build and deployment of Helm charts
 
-**Studying aside**
-- :man_technologist: <a href="https://github.com/caiomarte/learning/tree/main/go/sololearn" target="_blank">Go</a> programming language
+**On my free time**
+- :building_construction: Developing a CI/CD-based process to deploy Terraform-mangaged AWS resources
+- :man_technologist: Learning <a href="https://github.com/caiomarte/learning/tree/main/go/sololearn" target="_blank">Go</a> (programming language)
 
 ## My core experience is
 Over 3y working with AWS Cloud and DevOps:
