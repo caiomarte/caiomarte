@@ -27,10 +27,10 @@
 - :man_technologist: Learning <a href="https://github.com/caiomarte/learning/tree/main/go/sololearn" target="_blank">Go</a> (programming language)
 
 ## My core experience is
-Over 3y working with AWS Cloud and DevOps:
-- (2021 ~ Now) Currently an AWS & DevOps Engineer at [Caylent](https://caylent.com/)
-- (2020 ~ 2021) 1y4 mos a paid Cloud Infrastructure Architect Intern at [AWS](https://aws.amazon.com/professional-services/)
-- (2018 ~ 2020) 1y10 mos a paid Cloud Technical Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid)
+Over 3y working with AWS Cloud and DevOps in customer-facing roles:
+- (2021 ~ Now) Currently an AWS & DevOps Engineer Consultant at [Caylent](https://caylent.com/)
+- (2020 ~ 2021) 1y4 mos a paid Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/)
+- (2018 ~ 2020) 1y10 mos a paid Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid)
 
 ### Projects
 **Relevant role in 6 consulting projects**
@@ -42,7 +42,7 @@ Over 3y working with AWS Cloud and DevOps:
 - **1** creating customer documentation
 - **1** creating project documentation
 
-**Main project stack**
+**Main technical stack**
 - :cloud: **6** projects related to the AWS Cloud
   - **1** related to application migration
 - :gear: **4** projects related to Infrastructure as Code
