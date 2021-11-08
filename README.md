@@ -58,11 +58,11 @@ Over 3y working with AWS Cloud and DevOps in customer-facing roles:
 | Skill                                      | Experience           | Level      | Main tools                                    |
 | ------------------------------------------ | -------------------- | ---------- | --------------------------------------------- |
 | :cloud: AWS Cloud                          | ████████████████████ | Mid-level  | Well-Architected Framework                    |
-| :gear: Infrastructure as Code              | ████████████████░░░░ | Mid-Level  | Terraform, CloudFormation, AWS CDK for Python |
-| :building_construction: CI/CD Pipeline     | █████████████░░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI       |
+| :gear: Infrastructure as Code              | █████████████████░░░ | Mid-Level  | Terraform, CloudFormation, AWS CDK for Python |
+| :building_construction: CI/CD Pipeline     | ██████████████░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI       |
 | :package: Container & Orchestration        | ███████░░░░░░░░░░░░░ | Junior     | ECS, EKS, Kubernetes                          |
 | :fog: Serverless                           | ███░░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB    |
-| :shield: Governance, Monitoring & Security | ███████████░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, IAM, Security Group, NACL    |
+| :shield: Governance, Monitoring & Security | ██████████░░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, IAM, Security Group, NACL    |
 | :bar_chart: Agile & Lean                   | ████████████████████ | Mid-Level  | Kanban, Scrum, Working Backwards              |
 | :memo: Technical Writing                   | ████████████████████ | Mid/Senior | Customer/User & Project Documentation         |
 
