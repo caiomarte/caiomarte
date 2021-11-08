@@ -15,6 +15,9 @@
 - :package: Amazon EKS architecture & deployment
 - :package: Application management with Helm
 
+**Building aside**
+- :building_construction: CI/CD pipeline to deploy Terraform-mangaged AWS resources
+
 **Learning about**
 - :stethoscope: HIPAA compliance on AWS
 - :gear: Managing AWS Organizaton & Accounts with Terraform
