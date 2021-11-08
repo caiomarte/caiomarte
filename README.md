@@ -20,7 +20,7 @@
 - :gear: Managing AWS Organizaton & Accounts with Terraform
 - :building_construction: Reusing pipeline configuration on CircleCI
 - :package: Kubernetes architecture patterns on Amazon EKS
-- :package: Building Helm charts
+- :package: Automating build and deployment of Helm charts
 
 **Studying aside**
 - :man_technologist: <a href="https://github.com/caiomarte/learning/tree/main/go/sololearn" target="_blank">Go</a> programming language
