@@ -15,9 +15,6 @@
 - :package: Amazon EKS architecture & deployment
 - :package: Application management with Helm
 
-**Building aside**
-
-
 **Learning about**
 - :stethoscope: HIPAA compliance on AWS
 - :gear: Managing AWS Organizaton & Accounts with Terraform
@@ -25,7 +22,7 @@
 - :package: Kubernetes architecture patterns on Amazon EKS
 - :package: Automating build and deployment of Helm charts
 
-**On my free time**
+**Doing aside**
 - :building_construction: Developing a CI/CD-based process to deploy Terraform-mangaged AWS resources
 - :man_technologist: Learning <a href="https://github.com/caiomarte/learning/tree/main/go/sololearn" target="_blank">Go</a> (programming language)
 
