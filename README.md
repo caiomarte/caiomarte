@@ -1,4 +1,4 @@
-![Banner](./assets/banner.gif)
+![Banner](./assets/banner.png)
 
 ## Hello, nice to meet you
 - :raising_hand_man: I'm Caio Marte, 25, Brazilian & to-be Portuguese.
