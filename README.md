@@ -1,34 +1,27 @@
 ![Banner](./assets/banner.png)
 
 ## Hello, nice to meet you
-- :raising_hand_man: I'm Caio Marte, 25, Brazilian & to-be Portuguese.
-- :mortar_board: 90% Bachelor of Computer Engineering (GPA: 3.7, graduation date: Dec 2021).
+- :raising_hand_man: I'm Caio Marte, 26, Brazilian & to-be Portuguese.
+- :mortar_board: Bachelor of Computer Engineering (GPA: 3.7, graduation date: Dec 2021).
 - :briefcase: DevOps & Cloud Architect, specialized in AWS, Terraform, CI/CD, and writing awesome documentation.
 - :dart: My goal is to help businesses leverage Cloud & DevOps practices to drive customer value by default.
-- :pushpin: Living in São Paulo/SP-Brazil, but available to relocate (remote work only).
+- :pushpin: Living in São Paulo/SP-Brazil, but willing to relocate (remote work only).
 
 ## Currently, I have been
 **Working on**
-- :cloud: Application migration from Aptible to AWS
-- :gear: Infra as code with Terraform
-- :building_construction: CI/CD pipelines on CircleCI
-- :package: Amazon EKS architecture & deployment
-- :package: Application management with Helm
+:soon: In between projects
 
 **Learning about**
-- :stethoscope: HIPAA compliance on AWS
-- :gear: Managing AWS Organizaton & Accounts with Terraform
-- :building_construction: Reusing pipeline configuration on CircleCI
-- :package: Kubernetes architecture patterns on Amazon EKS
-- :package: Automating build and deployment of Helm charts
+- :cloud: AWS Certified DevOps Engineer Professional Certification
+- :writing_hand: Technical writing
 
 **Doing aside**
-- :building_construction: Developing a CI/CD-based process to deploy Terraform-mangaged AWS resources
-- :man_technologist: Learning <a href="https://github.com/caiomarte/learning/tree/main/go/sololearn" target="_blank">Go</a> (programming language)
+- :gear: Writing content about Terraform
+- :gear: Building a Terraform library of personal AWS solutions
 
 ## My core experience is
 Over 3y working with AWS Cloud and DevOps in customer-facing roles:
-- (2021 ~ Now) Currently an AWS & DevOps Engineer Consultant at [Caylent](https://caylent.com/)
+- (2021 ~ Now) Currently a Cloud DevOps Engineer Consultant at [Caylent](https://caylent.com/)
 - (2020 ~ 2021) 1y4 mos a paid Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/)
 - (2018 ~ 2020) 1y10 mos a paid Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid)
 
@@ -39,7 +32,7 @@ Over 3y working with AWS Cloud and DevOps in customer-facing roles:
 - **1** as the primary solutions architect
 - **1** as secondary solutions architect
 - **6** working on deliverables on my own
-- **1** creating customer documentation
+- **2** creating customer documentation
 - **1** creating project documentation
 
 **Main technical stack**
@@ -58,13 +51,13 @@ Over 3y working with AWS Cloud and DevOps in customer-facing roles:
 | Skill                                      | Experience           | Level      | Main tools                                    |
 | ------------------------------------------ | -------------------- | ---------- | --------------------------------------------- |
 | :cloud: AWS Cloud                          | ████████████████████ | Mid-level  | Well-Architected Framework                    |
-| :gear: Infrastructure as Code              | █████████████████░░░ | Mid-Level  | Terraform, CloudFormation, AWS CDK for Python |
+| :gear: Infrastructure as Code              | █████████████████░░░ | Mid-level  | Terraform, CloudFormation, AWS CDK for Python |
 | :building_construction: CI/CD Pipeline     | ██████████████░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI       |
 | :package: Container & Orchestration        | ███████░░░░░░░░░░░░░ | Junior     | ECS, EKS, Kubernetes                          |
 | :fog: Serverless                           | ███░░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB    |
 | :shield: Governance, Monitoring & Security | ██████████░░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, IAM, Security Group, NACL    |
-| :bar_chart: Agile & Lean                   | ████████████████████ | Mid-Level  | Kanban, Scrum, Working Backwards              |
-| :memo: Technical Writing                   | ████████████████████ | Mid/Senior | Customer/User & Project Documentation         |
+| :bar_chart: Agile & Lean                   | ████████████████████ | Mid-level  | Kanban, Scrum, Working Backwards              |
+| :memo: Technical Writing                   | ████████████████████ | Mid-level  | Customer/User & Project Documentation         |
 
 ### Certifications
 <a href="https://www.credly.com/badges/89a2dcd9-9996-4f88-af1b-b85a7794b2dd/public_url" target="_blank"><img src="./assets/certs/aws-certified-solutions-architect-associate.png" width="15%"/></a>
