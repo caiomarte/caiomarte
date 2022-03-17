@@ -9,7 +9,7 @@
 
 ## Currently, I have been
 **Working on**
-:soon: In between projects
+- :soon: In between projects
 
 **Learning about**
 - :cloud: AWS Certified DevOps Engineer Professional Certification
