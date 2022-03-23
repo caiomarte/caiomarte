@@ -3,14 +3,14 @@
 ## Hello, nice to meet you
 - :raising_hand_man: I'm Caio Marte, 26, Brazilian & to-be Portuguese.
 - :mortar_board: Bachelor of Computer Engineering (GPA: 3.7, graduation date: Dec 2021).
-- :briefcase: DevOps & Cloud Architect, consultant, and technical writer.
+- :briefcase: DevOps & Cloud Engineer, consultant, and technical writer.
 - :brain: Specialized in AWS, Terraform, CI/CD, and writing awesome documentation.
 - :dart: My goal is to help businesses leverage Cloud & DevOps practices to drive customer value by default.
 - :pushpin: Living in São Paulo/SP-Brazil, but willing to relocate (remote work only).
 
 ## Currently, I have been
 **Working on**
-- :soon: In between projects
+- :soon: Kicking off a new project
 
 **Learning about**
 - :cloud: AWS Certified DevOps Engineer Professional Certification
