@@ -43,13 +43,13 @@ Almost 4y working with AWS Cloud and DevOps in customer-facing roles:
 
 **Main technical stack**
 - :cloud: **7** projects related to the AWS Cloud
-  - **1** related to application migration
+  - **1** migration
 - :gear: **5** projects related to Infrastructure as Code
-  - Terraform, CloudFormation 
+  - Terraform, CloudFormation, CDK
 - :building_construction: **4** projects related to CI/CD
-  - Azure Pipelines, AWS CI/CD stack, and CircleCI
+  - Azure Pipelines, AWS CI/CD stack, CircleCI, Bitbucket
 - :package: **3** projects related to containers & orchestration 
-  - Amazon ECS and Amazon EKS
+  - Amazon ECS, Amazon EKS
 - :signal_strength: **1** project related to networking
   - Custom EKS cluster networking and VPN
 - :shield: **1** project related to monitoring
