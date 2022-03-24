@@ -10,7 +10,7 @@
 
 ## Currently, I have been
 **Working on**
-- :soon: Kicking off a new project
+- :soon: Leveraging CDK and CI/CD to deploy an AWS platform on EKS with custom networking configuration and VPN connection
 
 **Learning about**
 - :cloud: AWS Certified DevOps Engineer Professional Certification
