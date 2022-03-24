@@ -10,14 +10,19 @@
 
 ## Currently, I have been
 **Working on**
-- :soon: Leveraging CDK and CI/CD to deploy an AWS platform on EKS with custom networking configuration and VPN connection
+- 📦 EKS platform architecture
+- :signal_strength: Custom networking and VPN on EKS
+- :gear: Infra as Code with AWS CDK 
+- 🏗️ CI/CD pipeline on Bitbucket for CDK-managed infra
 
 **Learning about**
+- :signal_strength: EKS networking
+- :gear: Infra as Code with CDK
+- 🏗️ Bitbucket
 - :cloud: AWS Certified DevOps Engineer Professional Certification
-- :writing_hand: Technical writing
 
 **Doing aside**
-- :gear: Writing content about Terraform
+- :writing_hand: Looking for short-term writing gigs
 - :gear: Building a Terraform library of personal AWS solutions
 
 ## My core experience is
@@ -37,28 +42,33 @@ Almost 4y working with AWS Cloud and DevOps in customer-facing roles:
 - **1** creating project documentation
 
 **Main technical stack**
-- :cloud: **6** projects related to the AWS Cloud
+- :cloud: **7** projects related to the AWS Cloud
   - **1** related to application migration
-- :gear: **4** projects related to Infrastructure as Code
+- :gear: **5** projects related to Infrastructure as Code
   - Terraform, CloudFormation 
-- :building_construction: **3** projects related to CI/CD
+- :building_construction: **4** projects related to CI/CD
   - Azure Pipelines, AWS CI/CD stack, and CircleCI
-- :package: **2** projects related to containers & orchestration 
+- :package: **3** projects related to containers & orchestration 
   - Amazon ECS and Amazon EKS
+- :signal_strength: **1** project related to networking
+  - Custom EKS cluster networking and VPN
 - :shield: **1** project related to monitoring
   - Amazon CloudWatch and Amazon EC2
+- :male_detective: **2** projects related to compliance
+  - HIPAA and AWS FTR for Software Partners
 
 ## My core skills are
-| Skill                                      | Experience           | Level      | Main tools                                    |
-| ------------------------------------------ | -------------------- | ---------- | --------------------------------------------- |
-| :cloud: AWS Cloud                          | ████████████████████ | Mid-level  | Well-Architected Framework                    |
-| :gear: Infrastructure as Code              | █████████████████░░░ | Mid-level  | Terraform, CloudFormation, AWS CDK for Python |
-| :building_construction: CI/CD Pipeline     | ██████████████░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI       |
-| :package: Container & Orchestration        | ███████░░░░░░░░░░░░░ | Junior     | ECS, EKS, Kubernetes                          |
-| :fog: Serverless                           | ███░░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB    |
-| :shield: Governance, Monitoring & Security | ██████████░░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, IAM, Security Group, NACL    |
-| :bar_chart: Agile & Lean                   | ████████████████████ | Mid-level  | Kanban, Scrum, Working Backwards              |
-| :memo: Technical Writing                   | ████████████████████ | Mid-level  | Customer/User & Project Documentation         |
+| Skill                                      | Experience           | Level      | Main tools                                         |
+| ------------------------------------------ | -------------------- | ---------- | -------------------------------------------------- |
+| :cloud: AWS Cloud                          | ████████████████████ | Mid-level  | Well-Architected Framework                         |
+| :gear: Infrastructure as Code              | █████████████████░░░ | Mid-level  | Terraform, CloudFormation, AWS CDK for Python      |
+| :building_construction: CI/CD Pipeline     | ██████████████░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI, Bitbucket |
+| :package: Container & Orchestration        | ███████░░░░░░░░░░░░░ | Junior     | ECS, EKS                                           |
+| :fog: Serverless                           | ███░░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB         |
+| :shield: Governance, Monitoring & Security | ██████████░░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, IAM, Security Group, NACL         |
+| :male_detective: Compliance                | █░░░░░░░░░░░░░░░░░░░ | Junior/    | HIPAA, AWS FTR for Software Partners               |
+| :bar_chart: Agile & Lean                   | ████████████████████ | Mid-level  | Kanban, Scrum, Working Backwards                   |
+| :memo: Technical Writing                   | ████████████████████ | Mid-level  | Customer/User & Project Documentation              |
 
 ### Certifications
 <a href="https://www.credly.com/badges/89a2dcd9-9996-4f88-af1b-b85a7794b2dd/public_url" target="_blank"><img src="./assets/certs/aws-certified-solutions-architect-associate.png" width="15%"/></a>
