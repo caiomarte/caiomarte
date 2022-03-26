@@ -82,6 +82,4 @@ Almost 4y working with AWS Cloud and DevOps in customer-facing roles:
 <a href="https://blog.pushandroll.com" target="_blank"><img src="./assets/icons/md.png" target="_blank" style="width: 7%;"></a>&nbsp;&nbsp;
 <a href="mailto:caiomarte@pushandroll.com" target="_blank"><img src="./assets/icons/gm.png" target="_blank" style="width: 7%;"></a>
 
-*Click <a href="./assets/Resume_EN_v26Mar2022_Cloud_Engineer.pdf" target="_blank">here</a> to view my complete resume.*
-
-*Click <a href="./assets/Cover_Letter_EN_v26Mar2022_Cloud_Engineer.pdf" target="_blank">here</a> to view my cover letter.*
+*Click <a href="./assets/Resume_EN_v26Mar2022_Cloud_Engineer.pdf" target="_blank">here</a> to view my complete resume and <a href="./assets/Cover_Letter_EN_v26Mar2022_Cloud_Engineer.pdf" target="_blank">here</a> to view my cover letter.*
