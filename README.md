@@ -9,10 +9,12 @@
 
 ## Currently, I have been
 **Working on**
-- :package: EKS platform architecture
-- :signal_strength: Custom networking and VPN on EKS
-- :gear: Infra as Code with AWS CDK 
-- :building_construction: CI/CD pipeline on Bitbucket for CDK-managed infra
+- :shield: AWS account-level best practicies on security, monitoring, and governance
+- :gear: CDK IaC for serverless stack and EKS platform
+- :building_construction: CDK CI/CD pipeline on Bitbucket
+- :signal_strength: Networking policies, pod isolation, and VPN connection on EKS
+- :package: Responsive application scaling with CDK on EKS
+- :package: High availability strategy on EKS
 
 **Learning about**
 - :signal_strength: EKS networking
