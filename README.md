@@ -20,11 +20,11 @@
 - :signal_strength: EKS networking
 - :gear: Infra as Code with CDK
 - :building_construction: Bitbucket
-- :cloud: AWS Certified DevOps Engineer Professional Certification
 
 **Doing aside**
 - :writing_hand: Writing an article for practice
 - :construction_worker_man: Reading a book on Systems Engineering principles and practices
+- :cloud: Preparing for the AWS Certified DevOps Engineer Professional certification
 
 ## My core experience is
 Almost 4y working with AWS Cloud and DevOps in customer-facing roles:
