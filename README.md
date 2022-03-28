@@ -4,25 +4,25 @@
 - :raising_hand_man: I'm Caio Marte, 26, Brazilian & to-be Portuguese.
 - :mortar_board: Bachelor of Computer Engineering (GPA: 3.7, graduation date: Dec 2021).
 - :briefcase: DevOps & Cloud Engineer, consultant, and technical writer.
-- :brain: Specialized in AWS, Terraform, CI/CD, and writing awesome documentation.
-- :pushpin: Living in São Paulo/SP-Brazil, but willing to relocate (remote work only).
+- :toolbox: Specialized in AWS, IaC, CI/CD, and writing awesome documentation.
+- :pushpin: Living in São Paulo/SP-Brazil, but willing to relocate.
 
 ## Currently, I have been
 **Working on**
-- 📦 EKS platform architecture
+- :package: EKS platform architecture
 - :signal_strength: Custom networking and VPN on EKS
 - :gear: Infra as Code with AWS CDK 
-- 🏗️ CI/CD pipeline on Bitbucket for CDK-managed infra
+- :building_construction: CI/CD pipeline on Bitbucket for CDK-managed infra
 
 **Learning about**
 - :signal_strength: EKS networking
 - :gear: Infra as Code with CDK
-- 🏗️ Bitbucket
+- :building_construction: Bitbucket
 - :cloud: AWS Certified DevOps Engineer Professional Certification
 
 **Doing aside**
-- :writing_hand: Looking for short-term writing gigs
-- :gear: Building a Terraform library of personal AWS solutions
+- :writing_hand: Writing an article for practice
+- :construction_worker_man: Reading a book on Systems Engineering principles and practices
 
 ## My core experience is
 Almost 4y working with AWS Cloud and DevOps in customer-facing roles:
