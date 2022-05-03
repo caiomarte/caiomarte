@@ -28,7 +28,7 @@
 - :gear: Building a Terraform library of authorial solutions
 
 ## My core experience is
-Almost 4 years of experience in Cloud & DevOps customer facing roles and an internal role:
+Almost 4 years of experience with Cloud & DevOps in 3 customer facing roles and 1 internal role:
 - (2022 ~ Now) Currenly Cloud DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/)
 - (2021 ~ Now) Currently Cloud DevOps Engineer Consultant at [Caylent](https://caylent.com/)
 - (2020 ~ 2021) 1y4 mos paid Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/)
