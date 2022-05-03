@@ -1,11 +1,11 @@
 ![Banner](./assets/banner.png)
 
 ## Hello, nice to meet you
-- :raising_hand_man: I'm Caio Marte, 26, Luso-brazilian.
+- :raising_hand_man: Caio Marte, 26, Luso-brazilian.
 - :mortar_board: Bachelor of Computer Engineering (GPA: 3.7, graduation date: Dec 2021).
 - :briefcase: DevOps & Cloud Engineer, consultant, and technical writer.
 - :toolbox: Specialized in AWS, IaC, CI/CD, and writing awesome documentation.
-- :pushpin: Based in São Paulo/Brazil and Albufeira/Portugal.
+- :pushpin: Based in São Paulo/Brazil.
 
 ## Currently, I have been
 **Working on**
