@@ -29,10 +29,10 @@
 
 ## My core experience is
 Almost 4 years of experience with Cloud & DevOps in 3 customer facing roles and 1 internal role:
-- (2022 ~ Now) Currenly Cloud DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/)
-- (2021 ~ Now) Currently Cloud DevOps Engineer Consultant at [Caylent](https://caylent.com/)
-- (2020 ~ 2021) 1y4 mos paid Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/)
-- (2018 ~ 2020) 1y10 mos paid Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid)
+- (2022 ~ Now) Currenly Cloud DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/) - Australia, Remote
+- (2021 ~ Now) Currently Cloud DevOps Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
+- (2020 ~ 2021) 1y4 mos paid Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/) - Brazil, Remote
+- (2018 ~ 2020) 1y10 mos paid Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid) - Brazil, Onsinte
 
 ### Projects
 **Relevant role in 6 consulting projects**
