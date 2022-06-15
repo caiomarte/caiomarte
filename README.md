@@ -24,7 +24,6 @@
 **Doing aside**
 - :writing_hand: Writing an article for practice
 - :construction_worker_man: Reading a book on Systems Engineering principles and practices
-- :cloud: Preparing for the AWS Certified DevOps Engineer Professional certification
 - :gear: Building a Terraform library of authorial solutions
 
 ## My core experience is
