@@ -5,7 +5,7 @@
 - :mortar_board: Bachelor of Computer Engineering, GPA: 3.7.
 - :briefcase: DevOps & Cloud Engineer, consultant, and technical writer.
 - :toolbox: Specialized in AWS, IaC, CI/CD, and writing awesome documentation.
-- :pushpin: Remote worker.
+- :pushpin: Remote worker based in São Paulo/Brazil.
 
 ## Currently, I have been
 **Working on**
