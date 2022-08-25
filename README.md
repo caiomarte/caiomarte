@@ -21,9 +21,9 @@
 
 **Doing aside**
 - :weight_lifting_man: Crossfit 7 times a week
-- :diving_mask: Taking a scuba diving certification
-- :open_book: Reading "The Misfit Economy", Alexa Clay & Kyra Maya Phillips
-- :mending_heart: Engaging in volunteering and community work
+- :diving_mask: Scuba diving certification
+- :open_book: "The Misfit Economy" book by Alexa Clay & Kyra Maya Phillips
+- :mending_heart: Volunteering and community work
 
 ## My core experience is
 Almost 4 years of experience with Cloud & DevOps in 3 customer facing roles and 1 internal role:
