@@ -9,22 +9,21 @@
 
 ## Currently, I have been
 **Working on**
-- :shield: AWS account-level best practicies on security, monitoring, and governance
-- :gear: Typescript CDK IaC for EKS SaaS resources
-- :building_construction: IaC CI/CD pipeline on Bitbucket
-- :signal_strength: Networking policies, namespace isolation, and VPN connection on EKS
-- :package: Responsive application scaling with CDK on EKS
-- :package: High availability strategy on EKS
+- :dollar: AWS and overall IT operation cost optimization 
+- :mag: Prometheus Helm Chart installation
+- :mag: Grafana dashboard, alert, and notification
+- :building_construction: CI/CD pipeline on CircleCI
+- :package: Helm Chart deployment to EKS
 
 **Learning about**
-- :signal_strength: EKS networking
-- :gear: Infra as Code with Typescript CDK
-- :building_construction: Bitbucket CI/CD pipelines
+- :dollar: FinOps and cost optimization on AWS
+- :bar_chart: Business strategy, financial analysis and modeling
 
 **Doing aside**
-- :writing_hand: Writing an article for practice
-- :construction_worker_man: Reading a book on Systems Engineering principles and practices
-- :gear: Building a Terraform library of authorial solutions
+- :weight_lifting_man: Crossfit 7 times a week
+- :diving_mask: Taking a scuba diving certification
+- :open_book: Reading "The Misfit Economy", Alexa Clay & Kyra Maya Phillips
+- :mending_heart: Engaging in volunteering and community work
 
 ## My core experience is
 Almost 4 years of experience with Cloud & DevOps in 3 customer facing roles and 1 internal role:
@@ -65,10 +64,10 @@ Almost 4 years of experience with Cloud & DevOps in 3 customer facing roles and 
 | :cloud: AWS Cloud                          | ████████████████████ | Mid-level  | Well-Architected Framework                         |
 | :gear: Infrastructure as Code              | █████████████████░░░ | Mid-level  | Terraform, CloudFormation, AWS CDK for Python      |
 | :building_construction: CI/CD Pipeline     | ██████████████░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI, Bitbucket |
-| :package: Container & Orchestration        | ███████░░░░░░░░░░░░░ | Junior     | ECS, EKS                                           |
+| :package: Container & Orchestration        | ██████████░░░░░░░░░░ | Junior/Mid | ECS, EKS                                           |
 | :fog: Serverless                           | ███░░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB         |
-| :shield: Governance, Monitoring & Security | ██████████░░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, IAM, Security Group, NACL         |
-| :male_detective: Compliance                | █░░░░░░░░░░░░░░░░░░░ | Junior/    | HIPAA, AWS FTR for Software Partners               |
+| :shield: Governance, Monitoring & Security | ██████████░░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, Prometheus, Grafana               |
+| :male_detective: Compliance                | ██░░░░░░░░░░░░░░░░░░ | Junior/    | HIPAA, AWS FTR for Software Partners               |
 | :bar_chart: Agile & Lean                   | ████████████████████ | Mid-level  | Kanban, Scrum, Working Backwards                   |
 | :memo: Technical Writing                   | ████████████████████ | Mid-level  | Customer/User & Project Documentation              |
 
