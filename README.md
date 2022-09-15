@@ -26,7 +26,7 @@
 - :open_book: "The Misfit Economy" book, by Alexa Clay & Kyra Maya Phillips
 
 ## My core experience is
-Almost 4 years of experience with Cloud & DevOps in 3 customer facing roles and 1 internal role:
+Over 4 years of experience with Cloud & DevOps in 3 customer facing roles and 1 internal role:
 - (2022 ~ Now) Cloud DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/) - Australia, Remote
 - (2021 ~ 2022) Cloud DevOps Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
 - (2020 ~ 2021) 1y4 mos paid Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/) - Brazil, Remote
