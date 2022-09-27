@@ -13,7 +13,7 @@
 - :bricks: CloudFormation IaC
 - :building_construction: CI on Jenkins
 - :building_construction: CD on Octopus
-- :fog: Event-driven, serverless architecture
+- :arrow_forward: Event-driven, serverless architecture
 
 **Learning about**
 - :up: DR patterns on AWS
@@ -53,10 +53,10 @@ Over 4 years of experience with Cloud & DevOps in 4 customer facing roles and 1 
 | Skill                                      | Experience           | Level      | Main tools                                         |
 | ------------------------------------------ | -------------------- | ---------- | -------------------------------------------------- |
 | :cloud: AWS Cloud                          | ████████████████████ | Mid-level  | Well-Architected Framework                         |
-| :bricks: Infrastructure as Code              | █████████████████░░░ | Mid-level  | Terraform, CloudFormation, AWS CDK for Python      |
+| :bricks: Infrastructure as Code            | █████████████████░░░ | Mid-level  | Terraform, CloudFormation, AWS CDK for Python      |
 | :building_construction: CI/CD Pipeline     | ██████████████░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI, Bitbucket |
 | :package: Container & Orchestration        | ██████████░░░░░░░░░░ | Junior/Mid | ECS, EKS                                           |
-| :fog: Serverless                           | ███░░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB         |
+| :arrow_forward: Serverless                 | ███░░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB         |
 | :shield: Governance, Monitoring & Security | ██████████░░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, Prometheus, Grafana               |
 | :male_detective: Compliance                | ██░░░░░░░░░░░░░░░░░░ | Junior/    | HIPAA, AWS FTR for Software Partners               |
 | :bar_chart: Agile & Lean                   | ████████████████████ | Mid-level  | Kanban, Scrum, Working Backwards                   |
