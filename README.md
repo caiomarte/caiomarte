@@ -9,60 +9,51 @@
 
 ## Currently, I have been
 **Working on**
-- :dollar: AWS and overall IT operation cost optimization 
-- :mag: Prometheus Helm Chart installation
-- :mag: Grafana dashboard, alert, and notification
-- :building_construction: CI/CD pipeline on CircleCI
-- :package: Helm Chart deployment to EKS
+- :up: Cross-region DR strategy on AWS
+- :bricks: CloudFormation IaC
+- :building_construction: CI on Jenkins
+- :building_construction: CD on Octopus
+- :fog: Event-driven, serverless architecture
 
 **Learning about**
-- :dollar: FinOps and cost optimization on AWS
+- :up: DR patterns on AWS
 - :bar_chart: Business strategy, financial analysis and modeling
+- :dollar: FinOps and cost optimization on AWS
 
 **Doing aside**
-- :weight_lifting_man: Crossfit 7 times a week
+- :weight_lifting_man: Prep for CrossFit amateur competition
+- :sailboat: Sailing beginner course
 - :diving_mask: Scuba diving certification
-- :mending_heart: Volunteering and community work
+- :mending_heart: Volunteering and community engagement
 - :open_book: "The Misfit Economy" book, by Alexa Clay & Kyra Maya Phillips
 
 ## My core experience is
-Over 4 years of experience with Cloud & DevOps in 3 customer facing roles and 1 internal role:
-- (2022 ~ Now) Cloud DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/) - Australia, Remote
-- (2021 ~ 2022) Cloud DevOps Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
+Over 4 years of experience with Cloud & DevOps in 4 customer facing roles and 1 internal role:
+- (2022 ~ Now) Sr Cloud Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
+- (2021 ~ 2022) DevOps Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
+- (2022 ~ 2022) DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/) - Australia, Remote
 - (2020 ~ 2021) 1y4 mos paid Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/) - Brazil, Remote
 - (2018 ~ 2020) 1y10 mos paid Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid) - Brazil, Onsite
 
 ### Projects
-**Relevant role in 6 consulting projects**
-- **1** leading the technical team
-- **2** as the only solutions architect
-- **1** as the primary solutions architect
-- **1** as secondary solutions architect
-- **6** working on deliverables on my own
-- **2** creating customer documentation
-- **1** creating project documentation
+- 8 consulting projects
+- 3 internal projects
+- More information [here](https://www.linkedin.com/in/caiomarte/details/projects/)
 
 **Main technical stack**
-- :cloud: **7** projects related to the AWS Cloud
-  - **1** migration
-- :gear: **5** projects related to Infrastructure as Code
+- :cloud: AWS Cloud
+- :bricks: Infrastructure as Code
   - Terraform, CloudFormation, CDK
-- :building_construction: **4** projects related to CI/CD
-  - Azure Pipelines, AWS CI/CD stack, CircleCI, Bitbucket
-- :package: **3** projects related to containers & orchestration 
-  - Amazon ECS, Amazon EKS
-- :signal_strength: **1** project related to networking
-  - Custom EKS cluster networking and VPN
-- :shield: **1** project related to monitoring
-  - Amazon CloudWatch and Amazon EC2
-- :male_detective: **2** projects related to compliance
-  - HIPAA and AWS FTR for Software Partners
+- :building_construction: CI/CD
+  - Azure Pipelines, CircleCI, Bitbucket, AWS CI/CD stack, Jenkins, Octopus
+- :package: Containers & orchestration 
+  - Amazon EKS, Amazon ECS
 
 ## My core skills are
 | Skill                                      | Experience           | Level      | Main tools                                         |
 | ------------------------------------------ | -------------------- | ---------- | -------------------------------------------------- |
 | :cloud: AWS Cloud                          | ████████████████████ | Mid-level  | Well-Architected Framework                         |
-| :gear: Infrastructure as Code              | █████████████████░░░ | Mid-level  | Terraform, CloudFormation, AWS CDK for Python      |
+| :bricks: Infrastructure as Code              | █████████████████░░░ | Mid-level  | Terraform, CloudFormation, AWS CDK for Python      |
 | :building_construction: CI/CD Pipeline     | ██████████████░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI, Bitbucket |
 | :package: Container & Orchestration        | ██████████░░░░░░░░░░ | Junior/Mid | ECS, EKS                                           |
 | :fog: Serverless                           | ███░░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB         |
