@@ -38,7 +38,7 @@ Over 4 years of experience with Cloud & DevOps in 4 customer facing roles and 1 
 ### Projects
 - 8 consulting projects
 - 3 internal projects
-- More information [here](https://www.linkedin.com/in/caiomarte/details/projects/)
+* Click <a href="https://www.linkedin.com/in/caiomarte/details/projects/" target="_blank">here</a> to view more information.*
 
 **Main technical stack**
 - :cloud: AWS Cloud
@@ -69,6 +69,7 @@ Over 4 years of experience with Cloud & DevOps in 4 customer facing roles and 1 
 <a href="https://www.credly.com/badges/fc044a9a-b781-4d84-a526-89f20a9373de/public_url" target="_blank"><img src="./assets/certs/aws-certified-cloud-practitioner.png" width="15%"/></a>
 <a href="https://www.credly.com/badges/c6163fb3-359f-4e22-aaad-428323e06e96/public_url" target="_blank"><img src="./assets/certs/kanban-foundation-kikf.png" width="15%"/></a>
 <a href="https://www.credly.com/badges/95ff1e53-709e-4d26-925c-75f96de33465/public_url" target="_blank"><img src="./assets/certs/scrum-foundation-professional-certificate-sfpc.1.png" width="15%"/></a>
+*Click <a href-"https://www.credly.com/users/caiomarte/badges" target="_blank">here</a> to view a list of credentials.*
 
 ## You can also find me on
 <a href="https://pushandroll.com" target="_blank"><img src="./assets/icons/in.png" target="_blank" style="width: 7%;"></a>&nbsp;&nbsp;
