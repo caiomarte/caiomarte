@@ -78,4 +78,4 @@ Over 4 years of experience with Cloud & DevOps in 4 customer facing roles and 1 
 <a href="https://medium.com/@caiomarte" target="_blank"><img src="./assets/icons/md.png" target="_blank" style="width: 7%;"></a>&nbsp;&nbsp;
 <a href="mailto:caiomarte@icloud.com" target="_blank"><img src="./assets/icons/gm.png" target="_blank" style="width: 7%;"></a>
 
-*Click <a href="./assets/Resume_EN_v26Mar2022_Cloud_Engineer.pdf" target="_blank">here</a> to view my complete resume and <a href="./assets/Cover_Letter_EN_v26Mar2022_Cloud_Engineer.pdf" target="_blank">here</a> to view my cover letter.*
+*Click <a href="./assets/Resume_EN_v14Sep2022_Cloud_Engineer_Remote.pdf" target="_blank">here</a> to view my complete resume and <a href="./assets/Cover_Letter_EN_v14Sep2022_Cloud_Engineer_Remote.pdf" target="_blank">here</a> to view my cover letter.*
