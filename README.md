@@ -74,8 +74,8 @@ Over 4 years of experience with Cloud & DevOps in 4 customer facing roles and 1 
 *Click <a href="https://www.credly.com/users/caiomarte/badges" target="_blank">here</a> to view a list of credentials.*
 
 ## You can also find me on
-<a href="https://pushandroll.com" target="_blank"><img src="./assets/icons/in.png" target="_blank" style="width: 7%;"></a>&nbsp;&nbsp;
-<a href="https://blog.pushandroll.com" target="_blank"><img src="./assets/icons/md.png" target="_blank" style="width: 7%;"></a>&nbsp;&nbsp;
-<a href="mailto:caiomarte@pushandroll.com" target="_blank"><img src="./assets/icons/gm.png" target="_blank" style="width: 7%;"></a>
+<a href="https://www.linkedin.com/in/caiomarte/" target="_blank"><img src="./assets/icons/in.png" target="_blank" style="width: 7%;"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@caiomarte" target="_blank"><img src="./assets/icons/md.png" target="_blank" style="width: 7%;"></a>&nbsp;&nbsp;
+<a href="mailto:caiomarte@icloud.com" target="_blank"><img src="./assets/icons/gm.png" target="_blank" style="width: 7%;"></a>
 
 *Click <a href="./assets/Resume_EN_v26Mar2022_Cloud_Engineer.pdf" target="_blank">here</a> to view my complete resume and <a href="./assets/Cover_Letter_EN_v26Mar2022_Cloud_Engineer.pdf" target="_blank">here</a> to view my cover letter.*
