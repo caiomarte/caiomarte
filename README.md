@@ -38,7 +38,7 @@ Over 4 years of experience with Cloud & DevOps in 4 customer facing roles and 1 
 ### Projects
 - 8 consulting projects
 - 3 internal projects
-* Click <a href="https://www.linkedin.com/in/caiomarte/details/projects/" target="_blank">here</a> to view more information.*
+*Click <a href="https://www.linkedin.com/in/caiomarte/details/projects/" target="_blank">here</a> to view more information.*
 
 **Main technical stack**
 - :cloud: AWS Cloud
