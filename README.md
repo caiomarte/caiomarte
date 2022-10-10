@@ -32,8 +32,8 @@ Over 4 years of experience with Cloud & DevOps in 4 customer facing roles and 1 
 - (2022 ~ Now) Sr Cloud Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
 - (2021 ~ 2022) DevOps Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
 - (2022 ~ 2022) DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/) - Australia, Remote
-- (2020 ~ 2021) 1y4 mos paid Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/) - Brazil, Remote
-- (2018 ~ 2020) 1y10 mos paid Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid) - Brazil, Onsite
+- (2020 ~ 2021) Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/) - Brazil, Remote
+- (2018 ~ 2020) Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid) - Brazil, Onsite
 
 ### Projects
 - 8 consulting projects
