@@ -16,9 +16,8 @@
 - :arrow_forward: Event-driven, serverless architecture
 
 **Learning about**
-- :up: DR patterns on AWS
 - :bar_chart: Business strategy, financial analysis and modeling
-- :dollar: FinOps and cost optimization on AWS
+- :fr: French
 
 **Doing aside**
 - :weight_lifting_man: Prep for CrossFit amateur competition
