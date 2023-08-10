@@ -26,7 +26,7 @@
 - :bricks: Infrastructure as Code
   - Terraform, CloudFormation, CDK
 - :building_construction: CI/CD
-  - Azure Pipelines, CircleCI, Bitbucket, AWS CI/CD stack, Jenkins, Octopus
+  - Azure Pipelines, CircleCI, Bitbucket, AWS CI/CD stack
 - :package: Containers & orchestration 
   - Amazon EKS, Amazon ECS
 
