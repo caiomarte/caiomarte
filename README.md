@@ -33,15 +33,15 @@
 ## My core skills are
 | Skill                                      | Experience           | Level      | Main tools                                         |
 | ------------------------------------------ | -------------------- | ---------- | -------------------------------------------------- |
-| :cloud: AWS Cloud                          | ████████████████████ | Mid-level  | Well-Architected Framework                         |
-| :bricks: Infrastructure as Code            | █████████████████░░░ | Mid-level  | Terraform, CloudFormation, AWS CDK for Python      |
-| :building_construction: CI/CD Pipeline     | ██████████████░░░░░░ | Junior/Mid | CodePipeline, Azure Pipelines, CircleCI, Bitbucket |
-| :package: Container & Orchestration        | ██████████░░░░░░░░░░ | Junior/Mid | ECS, EKS                                           |
-| :arrow_forward: Serverless                 | ███░░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB         |
-| :shield: Governance, Monitoring & Security | ██████████░░░░░░░░░░ | Junior/Mid | SSM, CloudWatch, Prometheus, Grafana               |
-| :male_detective: Compliance                | ██░░░░░░░░░░░░░░░░░░ | Junior/    | HIPAA, AWS FTR for Software Partners               |
-| :bar_chart: Agile & Lean                   | ████████████████████ | Mid-level  | Kanban, Scrum, Working Backwards                   |
-| :memo: Technical Writing                   | ████████████████████ | Mid-level  | Customer/User & Project Documentation              |
+| :cloud: AWS Cloud                          | ██████████████████░░ | Senior     | Well-Architected Framework                         |
+| :bricks: Infrastructure as Code            | ██████████████████░░ | Senior     | Terraform, CloudFormation, AWS CDK for Python      |
+| :building_construction: CI/CD Pipeline     | ██████████████░░░░░░ | Mid-level  | CodePipeline, Azure Pipelines, CircleCI, Bitbucket |
+| :package: Container & Orchestration        | ██████████░░░░░░░░░░ | Jr/Mid     | ECS, EKS                                           |
+| :arrow_forward: Serverless                 | ████░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB         |
+| :shield: Governance, Monitoring & Security | ██████████░░░░░░░░░░ | Jr/Mid     | SSM, CloudWatch, Prometheus, Grafana               |
+| :male_detective: Compliance                | ██░░░░░░░░░░░░░░░░░░ | Junior     | HIPAA, AWS FTR for Software Partners               |
+| :bar_chart: Agile & Lean                   | ████████████████████ | Senior     | Kanban, Scrum, Working Backwards                   |
+| :memo: Technical Writing                   | ████████████████████ | Senior     | Customer/User & Project Documentation              |
 
 ### Certifications
 <a href="https://www.credly.com/badges/89a2dcd9-9996-4f88-af1b-b85a7794b2dd/public_url" target="_blank"><img src="./assets/certs/aws-certified-solutions-architect-associate.png" width="15%"/></a>
