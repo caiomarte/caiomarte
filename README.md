@@ -7,24 +7,6 @@
 - :toolbox: Specialized in AWS, IaC, CI/CD, and writing awesome documentation
 - :pushpin: Remote worker
 
-## Currently, I have been
-**Working on**
-- :up: Cross-region DR strategy on AWS
-- :bricks: CloudFormation IaC
-- :building_construction: CI on Jenkins
-- :building_construction: CD on Octopus
-- :arrow_forward: Event-driven, serverless architecture
-
-**Learning about**
-- 🧠 General Systems Thinking
-- 🇩🇪 German
-- 🇮🇹 Italian
-
-**Doing aside**
-- :weight_lifting_man: Prep for CrossFit amateur competition
-- :mending_heart: Volunteering and community engagement
-- :open_book: "The End of Burnout" by Jonathan Malesic
-
 ## My core experience is
 5 years of experience with Cloud & DevOps in 4 customer facing roles and 1 internal role:
 - (2022 ~ Now) Sr Cloud Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
