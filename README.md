@@ -1,11 +1,11 @@
 ![Banner](./assets/banner.png)
 
 ## Hello, nice to meet you
-- :raising_hand_man: Caio Marte, 26, Luso-brazilian
+- :raising_hand_man: Caio Marte, 27, Luso-brazilian
 - :mortar_board: Bachelor of Computer Engineering, GPA: 3.7
 - :briefcase: DevOps-oriented Cloud Engineer and consultant
 - :toolbox: Specialized in AWS, IaC, CI/CD, and writing awesome documentation
-- :pushpin: Remote worker based in São Paulo/Brazil
+- :pushpin: Remote worker
 
 ## Currently, I have been
 **Working on**
@@ -16,18 +16,17 @@
 - :arrow_forward: Event-driven, serverless architecture
 
 **Learning about**
-- :bar_chart: Business strategy, financial analysis and modeling
-- :fr: French
+- 🧠 General Systems Thinking
+- 🇩🇪 German
+- 🇮🇹 Italian
 
 **Doing aside**
 - :weight_lifting_man: Prep for CrossFit amateur competition
-- :sailboat: Sailing beginner course
-- :diving_mask: Scuba diving certification
 - :mending_heart: Volunteering and community engagement
-- :open_book: "The Misfit Economy" book, by Alexa Clay & Kyra Maya Phillips
+- :open_book: "The End of Burnout" by Jonathan Malesic
 
 ## My core experience is
-Over 4 years of experience with Cloud & DevOps in 4 customer facing roles and 1 internal role:
+5 years of experience with Cloud & DevOps in 4 customer facing roles and 1 internal role:
 - (2022 ~ Now) Sr Cloud Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
 - (2021 ~ 2022) DevOps Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
 - (2022 ~ 2022) DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/) - Australia, Remote
@@ -35,8 +34,8 @@ Over 4 years of experience with Cloud & DevOps in 4 customer facing roles and 1 
 - (2018 ~ 2020) Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid) - Brazil, Onsite
 
 ### Projects
-- 8 consulting projects
-- 3 internal projects
+- 9 consulting projects
+- 4 internal projects
 
 *Click <a href="https://www.linkedin.com/in/caiomarte/details/projects/" target="_blank">here</a> to view more information.*
 
