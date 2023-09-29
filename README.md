@@ -1,4 +1,4 @@
-![Banner](./assets/banner.png)
+v![Banner](./assets/banner.png)
 
 ## Hello, nice to meet you
 - :raising_hand_man: Caio Marte, 27, Luso-brazilian
@@ -10,8 +10,8 @@
 ## My core experience is
 5 years of experience with Cloud & DevOps in 4 customer facing roles and 1 internal role:
 - (2022 ~ Now) Sr Cloud Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
-- (2021 ~ 2022) DevOps Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
 - (2022 ~ 2022) DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/) - Australia, Remote
+- (2021 ~ 2022) DevOps Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
 - (2020 ~ 2021) Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/) - Brazil, Remote
 - (2018 ~ 2020) Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid) - Brazil, Onsite
 
