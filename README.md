@@ -1,4 +1,4 @@
-v![Banner](./assets/banner.png)
+![Banner](./assets/banner.png)
 
 ## Hello, nice to meet you
 - :raising_hand_man: Caio Marte, 27, Luso-brazilian
