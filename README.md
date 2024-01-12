@@ -1,7 +1,7 @@
 ![Banner](./assets/banner.png)
 
 ## Hello, nice to meet you
-- :raising_hand_man: Caio Marte, 28
+- :raising_hand_man: Caio Marte, 28, :brazil: :portugal: citizen
 - :mortar_board: Bachelor of Computer Engineering, GPA: 3.7
 - :briefcase: DevOps-oriented Cloud Engineer and consultant
 - :toolbox: Specialized in AWS, IaC, CI/CD, and writing awesome documentation
