@@ -16,7 +16,7 @@
 - (2018 ~ 2020) Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid) - Brazil, Onsite
 
 ### Projects
-- 9 consulting projects
+- 10 consulting projects
 - 4 internal projects
 
 *Click <a href="https://www.linkedin.com/in/caiomarte/details/projects/" target="_blank">here</a> to view more information.*
