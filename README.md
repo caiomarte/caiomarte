@@ -2,21 +2,23 @@
 
 ## Hello, nice to meet you
 - :raising_hand_man: Caio Marte, 28, :brazil: :portugal: citizen
-- :mortar_board: Bachelor of Computer Engineering, GPA: 3.7
-- :briefcase: DevOps-oriented Cloud Engineer and consultant
+- :classical_building: Founder and several hats at @bluebrickco
+- :briefcase: Cloud architect, strategist, and narrative builder
 - :toolbox: Specialized in AWS, IaC, CI/CD, and writing awesome documentation
-- :pushpin: Remote worker
+- :mortar_board: BoE of Computer Engineering, GPA: 3.7 of 4.0
+- :pushpin: Remote worker based in Brasil
 
 ## My core experience is
-5 years of experience with Cloud & DevOps in 4 customer facing roles and 1 internal role:
-- (2022 ~ Now) Sr Cloud Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
+6 years of experience with Cloud & DevOps in 5 customer facing roles and 1 internal role:
+- (2024 ~ ) Principal Cloud Architect Consultant at [The BlueBrick Co.](https://www.linkedin.com/company/bluebrickco/) - Brasil, Remote
+- (2022 ~ 2024) Sr Cloud Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
 - (2022 ~ 2022) DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/) - Australia, Remote
 - (2021 ~ 2022) DevOps Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
-- (2020 ~ 2021) Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/) - Brazil, Remote
-- (2018 ~ 2020) Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid) - Brazil, Onsite
+- (2020 ~ 2021) Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/) - Brasil, Remote
+- (2018 ~ 2020) Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid) - Brasil, Onsite
 
 ### Projects
-- 10 consulting projects
+- 11 consulting projects
 - 4 internal projects
 
 *Click <a href="https://www.linkedin.com/in/caiomarte/details/projects/" target="_blank">here</a> to view more information.*
@@ -26,7 +28,7 @@
 - :bricks: Infrastructure as Code
   - Terraform, CloudFormation, CDK
 - :building_construction: CI/CD
-  - Azure Pipelines, CircleCI, Bitbucket, AWS CI/CD stack
+  - Azure Pipelines, CircleCI, GitHub Actions, Bitbucket, AWS CI/CD stack
 - :package: Containers & orchestration 
   - Amazon EKS, Amazon ECS
 
@@ -56,6 +58,6 @@
 ## You can also find me on
 <a href="https://www.linkedin.com/in/caiomarte/" target="_blank"><img src="./assets/icons/in.png" target="_blank" style="width: 7%;"></a>&nbsp;&nbsp;
 <a href="https://medium.com/@caiomarte" target="_blank"><img src="./assets/icons/md.png" target="_blank" style="width: 7%;"></a>&nbsp;&nbsp;
-<a href="mailto:caiomarte@icloud.com" target="_blank"><img src="./assets/icons/gm.png" target="_blank" style="width: 7%;"></a>
+<a href="mailto:caio@bluebrickco.com" target="_blank"><img src="./assets/icons/gm.png" target="_blank" style="width: 7%;"></a>
 
-*Click <a href="./assets/Resume_EN_v14Sep2022_Cloud_Engineer_Remote.pdf" target="_blank">here</a> to view my complete resume and <a href="./assets/Cover_Letter_EN_v14Sep2022_Cloud_Engineer_Remote.pdf" target="_blank">here</a> to view my cover letter.*
+*Click <a href="./assets/resume.pdf" target="_blank">here</a> to view my complete resume and <a href="./assets/cover-letter.pdf" target="_blank">here</a> to view my cover letter.*
