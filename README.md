@@ -3,8 +3,8 @@
 ## Hello, nice to meet you
 - :raising_hand_man: Caio Marte, 28, :brazil: :portugal: citizen
 - :classical_building: Founder and several hats at [@bluebrickco](https://github.com/bluebrickco)
-- :briefcase: Cloud architect, strategist, and narrative builder
-- :toolbox: Specialized in consulting, AWS, IaC, CI/CD, and writing awesome documentation
+- :briefcase: Cloud architect, strategist, narrative builder, and consultant
+- :toolbox: Specialized in AWS, IaC, CI/CD, and writing awesome documentation
 - :mortar_board: BoE of Computer Engineering, GPA: 3.7 of 4.0
 - :pushpin: Remote worker based in Brasil
 
