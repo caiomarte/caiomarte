@@ -10,7 +10,7 @@
 
 ## My core experience is
 6 years of experience with Cloud & DevOps in 5 customer facing roles and 1 internal role:
-- (2024 ~ ) Principal Cloud Architect Consultant at [The BlueBrick Co.](https://www.linkedin.com/company/bluebrickco/) - Brasil, Remote
+- (2024 ~ ) Principal Cloud Architect Consultant at [The BlueBrick Co.](https://www.linkedin.com/company/bluebrickco/) - Worldwide, Remote
 - (2022 ~ 2024) Sr Cloud Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
 - (2022 ~ 2022) DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/) - Australia, Remote
 - (2021 ~ 2022) DevOps Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
