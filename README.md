@@ -10,15 +10,15 @@
 
 ## My core experience is
 6 years of experience with Cloud & DevOps in 5 customer facing roles and 1 internal role:
-- (2024 ~ ) Principal Cloud Architect Consultant at [The BlueBrick Co.](https://www.linkedin.com/company/bluebrickco/) - Worldwide, Remote
-- (2022 ~ 2024) Sr Cloud Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
+- (2024 ~ ) Strategy & Executive Leader at [The BlueBrick Co.](https://www.linkedin.com/company/bluebrickco/) - Worldwide, Remote
+- (2022 ~ ) Sr Cloud Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
 - (2022 ~ 2022) DevOps Engineer at [ezyCollect](https://www.ezycollect.com.au/) - Australia, Remote
 - (2021 ~ 2022) DevOps Engineer Consultant at [Caylent](https://caylent.com/) - United States, Remote
 - (2020 ~ 2021) Cloud Architect Consultant Intern at [AWS](https://aws.amazon.com/professional-services/) - Brasil, Remote
 - (2018 ~ 2020) Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid) - Brasil, Onsite
 
 ### Projects
-- 11 consulting projects
+- 12 consulting projects
 - 4 internal projects
 
 *Click <a href="https://www.linkedin.com/in/caiomarte/details/projects/" target="_blank">here</a> to view more information.*
@@ -46,6 +46,7 @@
 | :memo: Technical Writing                   | ████████████████████ | Senior     | Customer/User & Project Documentation              |
 
 ### Certifications
+<a href="https://www.credly.com/badges/08c4540b-6bef-4ea3-903c-c736e54f981c/public_url" target="_blank"><img src="./assets/certs/hashicorp-certified-terraform-associate.png" width="15%"/></a>
 <a href="https://www.credly.com/badges/89a2dcd9-9996-4f88-af1b-b85a7794b2dd/public_url" target="_blank"><img src="./assets/certs/aws-certified-solutions-architect-associate.png" width="15%"/></a>
 <a href="https://www.credly.com/badges/6e5852d1-e907-47c1-b8cf-33a04a72002a/public_url" target="_blank"><img src="./assets/certs/aws-certified-developer-associate.png" width="15%"/></a>
 <a href="https://www.credly.com/badges/e0a706f3-a368-493c-ada1-a3b089e07cab/public_url" target="_blank"><img src="./assets/certs/aws-certified-sysops-administrator-associate.png" width="15%"/></a>
