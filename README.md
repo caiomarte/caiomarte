@@ -5,7 +5,7 @@
 - :classical_building: Founder and several hats at [@bluebrickco](https://github.com/bluebrickco)
 - :briefcase: Cloud Architect, Business Strategist, and Consultant
 - :toolbox: Specialized in AWS, IaC, CI/CD, and writing top-notch technical documentation
-- :mortar_board: BoE of Computer Engineering, GPA: 3.7 of 4.0
+- :mortar_board: BEng Computer Engineering
 - :pushpin: Remote worker based in Brasil
 
 ## My core experience is
