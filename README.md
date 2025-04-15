@@ -1,7 +1,7 @@
 ![Banner](./assets/banner.png)
 
 ## Hello, nice to meet you
-- :raising_hand_man: Caio Marte, 28, :brazil: :portugal: citizen
+- :raising_hand_man: Caio Marte, 29, :brazil: :portugal: citizen
 - :classical_building: Founder and several hats at [@bluebrickco](https://github.com/bluebrickco)
 - :briefcase: Cloud Architect, Business Strategist, and Consultant
 - :toolbox: Specialized in AWS, IaC, CI/CD, and writing top-notch technical documentation
@@ -18,7 +18,7 @@
 - (2018 ~ 2020) Hybrid Cloud Specialist Pre-Sales Intern at [IBM](https://www.ibm.com/cloud/hybrid) - Brasil, Onsite
 
 ### Projects
-- 12 consulting projects
+- 14 consulting projects
 - 4 internal projects
 
 *Click <a href="https://www.linkedin.com/in/caiomarte/details/projects/" target="_blank">here</a> to view more information.*
@@ -35,13 +35,13 @@
 ## My core skills are
 | Skill                                      | Experience           | Level      | Main tools                                         |
 | ------------------------------------------ | -------------------- | ---------- | -------------------------------------------------- |
-| :cloud: AWS Cloud                          | ██████████████████░░ | Senior     | Well-Architected Framework                         |
-| :bricks: Infrastructure as Code            | ██████████████████░░ | Senior     | Terraform, CloudFormation, AWS CDK for Python      |
-| :building_construction: CI/CD Pipeline     | ██████████████░░░░░░ | Mid-level  | CodePipeline, Azure Pipelines, CircleCI, Bitbucket |
-| :package: Container & Orchestration        | ██████████░░░░░░░░░░ | Jr/Mid     | ECS, EKS                                           |
-| :arrow_forward: Serverless                 | ████░░░░░░░░░░░░░░░░ | Junior     | Python, Lambda, API Gateway, SQS, DynamoDB         |
-| :shield: Governance, Monitoring & Security | ██████████░░░░░░░░░░ | Jr/Mid     | SSM, CloudWatch, Prometheus, Grafana               |
-| :male_detective: Compliance                | ██░░░░░░░░░░░░░░░░░░ | Junior     | HIPAA, AWS FTR for Software Partners               |
+| :cloud: AWS Cloud                          | ███████████████████░ | Senior     | Well-Architected Framework                         |
+| :bricks: Infrastructure as Code            | ███████████████████░ | Senior     | Terraform, CloudFormation, AWS CDK for Python      |
+| :building_construction: CI/CD Pipeline     | ███████████████░░░░░ | Mid/Sr     | CodePipeline, Azure Pipelines, CircleCI, Bitbucket |
+| :package: Container & Orchestration        | ██████████░░░░░░░░░░ | Mid        | ECS, EKS                                           |
+| :arrow_forward: Serverless                 | ██████████░░░░░░░░░░ | Mid        | Python, Lambda, API Gateway, SQS, DynamoDB         |
+| :shield: Governance, Monitoring & Security | ██████████░░░░░░░░░░ | Mid        | SSM, CloudWatch, Prometheus, Grafana               |
+| :male_detective: Compliance                | ██████░░░░░░░░░░░░░░ | Junior     | HIPAA, AWS FTR for Software Partners               |
 | :bar_chart: Agile & Lean                   | ████████████████████ | Senior     | Kanban, Scrum, Working Backwards                   |
 | :memo: Technical Writing                   | ████████████████████ | Senior     | Customer/User & Project Documentation              |
 
